@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Worker">
+
+	<Import Project="..\..\Misc\Shared Project Files\App.csproj" />
+
+	<PropertyGroup>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<UserSecretsId>dotnet-HyperVLauncher.Services.Monitor-0EF1C2E7-463D-47EE-8AA1-301B9B48A2F6</UserSecretsId>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<PackageReference Include="Microsoft.Extensions.Hosting" Version="6.0.0" />
+		<PackageReference Include="Microsoft.Extensions.Hosting.WindowsServices" Version="6.0.0" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<ProjectReference Include="..\..\Providers\HyperVLauncher.Providers.Common\HyperVLauncher.Providers.Common.csproj" />
+		<ProjectReference Include="..\..\Providers\HyperVLauncher.Providers.HyperV\HyperVLauncher.Providers.HyperV.csproj" />
+		<ProjectReference Include="..\..\Providers\HyperVLauncher.Providers.Ipc\HyperVLauncher.Providers.Ipc.csproj" />
+		<ProjectReference Include="..\..\Providers\HyperVLauncher.Providers.Settings\HyperVLauncher.Providers.Settings.csproj" />
+		<ProjectReference Include="..\..\Providers\HyperVLauncher.Providers.Shortcut\HyperVLauncher.Providers.Shortcut.csproj" />
+	</ItemGroup>
+	
+</Project>

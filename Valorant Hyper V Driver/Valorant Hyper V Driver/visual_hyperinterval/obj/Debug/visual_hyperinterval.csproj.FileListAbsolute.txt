@@ -1,0 +1,11 @@
+D:\materials\projects\visual_hyperinterval\visual_hyperinterval\bin\Debug\visual_hyperinterval.exe.config
+D:\materials\projects\visual_hyperinterval\visual_hyperinterval\bin\Debug\visual_hyperinterval.exe
+D:\materials\projects\visual_hyperinterval\visual_hyperinterval\bin\Debug\visual_hyperinterval.pdb
+D:\materials\projects\visual_hyperinterval\visual_hyperinterval\obj\Debug\visual_hyperinterval.csproj.AssemblyReference.cache
+D:\materials\projects\visual_hyperinterval\visual_hyperinterval\obj\Debug\visual_hyperinterval.Form1.resources
+D:\materials\projects\visual_hyperinterval\visual_hyperinterval\obj\Debug\visual_hyperinterval.Properties.Resources.resources
+D:\materials\projects\visual_hyperinterval\visual_hyperinterval\obj\Debug\visual_hyperinterval.csproj.GenerateResource.cache
+D:\materials\projects\visual_hyperinterval\visual_hyperinterval\obj\Debug\visual_hyperinterval.csproj.CoreCompileInputs.cache
+D:\materials\projects\visual_hyperinterval\visual_hyperinterval\obj\Debug\visual_hyperinterval.exe
+D:\materials\projects\visual_hyperinterval\visual_hyperinterval\obj\Debug\visual_hyperinterval.pdb
+D:\materials\projects\visual_hyperinterval\visual_hyperinterval\obj\Debug\visual_hyperinterval.csproj.SuggestedBindingRedirects.cache

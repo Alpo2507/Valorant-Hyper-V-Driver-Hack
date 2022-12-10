@@ -1,0 +1,49 @@
+{
+  "version": "1.0",
+  "defaultProvider": "cdnjs",
+  "libraries": [
+    {
+      "library": "jquery@3.6.0",
+      "destination": "Content/Vendor/jquery/"
+    },
+    {
+      "library": "fancybox@3.5.7",
+      "destination": "Content/Vendor/fancybox/"
+    },
+    {
+      "library": "jquery-fullscreen-plugin@1.1.5",
+      "destination": "Content/Vendor/jquery-fullscreen-plugin/"
+    },
+    {
+      "provider": "unpkg",
+      "library": "@fortawesome/fontawesome-free@5.14.0",
+      "destination": "Content/Vendor/fortawesome/",
+      "files": [
+        "scss/_variables.scss",
+        "scss/_mixins.scss",
+        "scss/_core.scss",
+        "scss/_animated.scss"
+      ]
+    },
+    {
+      "provider": "unpkg",
+      "library": "bootstrap@5.1.3",
+      "destination": "Content/Vendor/bootstrap/"
+    },
+    {
+      "provider": "filesystem",
+      "library": "https://raw.githubusercontent.com/joszz/is-loading/master/jquery.isloading.js",
+      "destination": "Content/Vendor/jquery.isloading/"
+    },
+    {
+      "provider": "filesystem",
+      "library": "https://raw.githubusercontent.com/Illyism/jquery.vibrate.js/master/build/jquery/jquery.vibrate.js",
+      "destination": "Content/Vendor/jquery.vibrate/"
+    },
+    {
+      "provider": "filesystem",
+      "library": "https://raw.githubusercontent.com/joszz/sorttable/master/sorttable.js",
+      "destination": "Content/Vendor/sorttable/"
+    }
+  ]
+}

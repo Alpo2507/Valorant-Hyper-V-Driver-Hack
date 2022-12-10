@@ -1,0 +1,12 @@
+<Project>
+  <PropertyGroup>
+    <Version>1.0.0</Version>
+    <Company>André Zammit</Company>
+    <Copyright>André Zammit 2021</Copyright>
+  
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+	  
+    <BaseOutputPath>..\..\Bin\</BaseOutputPath>
+  </PropertyGroup>
+</Project>
